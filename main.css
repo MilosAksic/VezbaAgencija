@@ -1,0 +1,25 @@
+.pozadina {
+    background-color: aqua;
+    height: 500px;
+
+}
+.pozadina h1, .pozadina p, .pozadina h2, .pozadina h4 {
+    color : white;
+
+}
+.pozadina img {
+    margin-top: 100px;
+}
+.pozadina p {
+    font-size: 1.5em;
+}
+.container-fluid p {
+    font-size: 1.5em;
+}
+.pozadina a {
+    color: white;
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 100px;
+}
