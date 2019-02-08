@@ -1,0 +1,17 @@
+/* ================
+============
+== ABOUT PAGE STYLES
+*/
+
+.about-our-stats {
+    background: #E0F0EA;
+    color: #769d9e;
+    text-align: center;
+}
+.about-our-stats img {
+    max-width: 100%;
+    height: auto;
+}
+.about-our-stats .number {
+    font-size: 4em;
+}
