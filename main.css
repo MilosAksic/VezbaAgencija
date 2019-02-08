@@ -47,6 +47,12 @@
     /* display: block; */
     width: 100%;
     margin-bottom: 8px;
+    cursor: pointer;
+
+}
+
+.contact-sec-2 input[type=submit]:hover, .contact-sec-2 input[type=reset]:hover {
+    background-color: orangered;
 }
 
 .contact-sec-3 {
@@ -56,3 +62,20 @@
 /* END OF CONTACT PAGE */
 
 
+
+/* ================
+== ABOUT PAGE STYLES
+*/
+
+.about-our-stats {
+    background: #E0F0EA;
+    color: #769d9e;
+    text-align: center;
+}
+.about-our-stats img {
+    max-width: 100%;
+    height: auto;
+}
+.about-our-stats .number {
+    font-size: 4em;
+}
